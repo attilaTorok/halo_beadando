@@ -1,4 +1,4 @@
-# Halo
+# Home assignment for Computer Networks
 
 ## How to start
 
